@@ -15,4 +15,9 @@ Commit #1
 Commit #2
 Commit #3
 Commit #3.0
+<<<<<<< HEAD
 >>>>>>> 409701dbc42617303f2225ce5b1268032f5bc0c0
+=======
+
+YO
+>>>>>>> fc9bfaee8852c1c009f17930716ac8ce437e6103
