@@ -5,3 +5,4 @@ Our goals with the project is to create an easy way to prompt an agent to prefor
 
 # Current Functionality
 None.
+Everything we ever wanted.
